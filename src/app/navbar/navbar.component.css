@@ -1,0 +1,30 @@
+.cont {
+  position: sticky;
+  width: 100vw;
+  height: 50px;
+}
+
+.cont2 {
+  line-height: 50px;
+  display: flex;
+  background-color: #1313133b;
+  color: white;
+  position: sticky;
+  backdrop-filter: blur(5px);
+  align-items: center;
+  text-align: center;
+}
+
+.logo {
+  width: 25%;
+  height: 100%;
+  float: left;
+}
+.line {
+  width: 100vw;
+  background-color: #de3535;
+  height: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  position: sticky;
+}

@@ -1,0 +1,14 @@
+.catego{
+  vertical-align: middle;
+  line-height: 24px;
+  margin-left: 15px;
+}
+.xd{
+  display: block;
+  cursor: pointer;
+  transition: all .1s ease-in-out;
+}
+.xd:hover{
+  transform: scale(1.1) rotate(3deg);
+
+}
